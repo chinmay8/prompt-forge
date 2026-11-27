@@ -1,6 +1,6 @@
 # PromptForge — Enterprise Multi-Agent Prompt Engineering Studio
 
-Transform rough, ambiguous user meta-prompts into production-grade, framework-compliant prompts using a **multi-agent pipeline** powered by Python, Streamlit, and any **OpenAI-compatible Chat Completions API** (such as [Ollama Cloud](https://ollama.com/), OpenAI, OpenRouter, or a local `/v1` server).
+Transform rough, ambiguous user zero-shot prompts into production-grade, framework-compliant prompts using a **multi-agent pipeline** powered by Python, Streamlit, and any **OpenAI-compatible Chat Completions API** (such as [Ollama Cloud](https://ollama.com/), OpenAI, OpenRouter, or a local `/v1` server).
 
 ---
 
